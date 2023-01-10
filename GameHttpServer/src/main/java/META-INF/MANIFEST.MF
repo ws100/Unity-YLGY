@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+Main-Class: com.example.gamehttpserver.GameHttpServerApplication
+Class-Path: springfox-swagger2-2.9.2.jar springfox-core-2.9.2.jar mysql-
+ connector-java-5.1.34.jar jackson-core-2.13.4.jar jackson-databind-2.13
+ .4.2.jar spring-boot-autoconfigure-2.7.6.jar spring-expression-5.3.24.j
+ ar mybatis-plus-extension-3.4.3.4.jar mybatis-spring-2.0.6.jar spring-b
+ oot-starter-jdbc-2.7.6.jar mybatis-plus-3.4.3.4.jar jackson-annotations
+ -2.13.4.jar jakarta.annotation-api-1.3.5.jar jul-to-slf4j-1.7.36.jar dr
+ uid-spring-boot-starter-1.2.15.jar springfox-swagger-common-2.9.2.jar s
+ pringfox-swagger-ui-2.9.2.jar spring-context-5.3.24.jar spring-boot-2.7
+ .6.jar spring-jdbc-5.3.24.jar guava-20.0.jar mybatis-plus-annotation-3.
+ 4.3.4.jar springfox-spring-web-2.9.2.jar jackson-module-parameter-names
+ -2.13.4.jar HikariCP-4.0.3.jar tomcat-embed-el-9.0.69.jar spring-boot-s
+ tarter-web-2.7.6.jar springfox-spi-2.9.2.jar spring-aop-5.3.24.jar swag
+ ger-models-1.5.20.jar spring-boot-starter-2.7.6.jar byte-buddy-1.12.19.
+ jar druid-1.2.15.jar jsqlparser-4.2.jar logback-core-1.2.11.jar spring-
+ beans-5.3.24.jar tomcat-embed-websocket-9.0.69.jar spring-plugin-metada
+ ta-1.2.0.RELEASE.jar log4j-to-slf4j-2.17.2.jar spring-web-5.3.24.jar sp
+ ring-plugin-core-1.2.0.RELEASE.jar spring-jcl-5.3.24.jar classmate-1.5.
+ 1.jar swagger-annotations-1.5.20.jar spring-core-5.3.24.jar logback-cla
+ ssic-1.2.11.jar spring-boot-starter-tomcat-2.7.6.jar log4j-api-2.17.2.j
+ ar jackson-datatype-jdk8-2.13.4.jar snakeyaml-1.30.jar slf4j-api-1.7.36
+ .jar tomcat-embed-core-9.0.69.jar jackson-datatype-jsr310-2.13.4.jar ma
+ pstruct-1.2.0.Final.jar mybatis-3.5.7.jar spring-boot-starter-json-2.7.
+ 6.jar mybatis-plus-core-3.4.3.4.jar spring-tx-5.3.24.jar spring-boot-st
+ arter-logging-2.7.6.jar spring-webmvc-5.3.24.jar mybatis-plus-boot-star
+ ter-3.4.3.4.jar springfox-schema-2.9.2.jar mysql-connector-j-8.0.31.jar
+
